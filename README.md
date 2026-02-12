@@ -1,5 +1,4 @@
-# PowerBi-Dashboard-project
-# analyse ecommerce sales data create an interactive dashboard using PowerBi
+# Analyse ecommerce sales data create an interactive dashboard using PowerBi
 Project Learnings
 
 Created interactive dashboard to track and analyze online sales data
